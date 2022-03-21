@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/internshala/static/js/main.3c5b55f1.js",
+    "static/js/787.67d44842.chunk.js": "/internshala/static/js/787.67d44842.chunk.js",
+    "index.html": "/internshala/index.html",
+    "main.3c5b55f1.js.map": "/internshala/static/js/main.3c5b55f1.js.map",
+    "787.67d44842.chunk.js.map": "/internshala/static/js/787.67d44842.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3c5b55f1.js"
+  ]
+}
