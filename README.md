@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Have used
 Fake API 
 #
+Deployed with github pages
+#
 CSS IN JS (styled components)
 #
 reusable components (tried to split everything as much as possible) -- please check - Button, Checkbox, DropDown, Table etc.
